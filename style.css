@@ -1,0 +1,40 @@
+body {
+  background: #e5e5e5;
+}
+a {
+  text-decoration: none;
+}
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+.logo {
+  display: flex;
+  align-items: self-end;
+}
+.logo-one {
+  background-color: #9c69e2;
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  aspect-ratio: 1;
+}
+.logo-two {
+  background-color: #f063b8;
+  width: 20px;
+  height: 35px;
+  border-radius: 20px;
+  margin-left: 20%;
+  aspect-ratio: 1;
+}
+.link-list {
+  display: flex;
+}
+nav .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+nav {
+  margin-top: 50px;
+}
