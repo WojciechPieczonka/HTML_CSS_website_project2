@@ -121,6 +121,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 50px;
 }
 .about-img {
   background-image: url(images/about-background.jpg);
@@ -131,15 +132,23 @@ nav {
   border-radius: 50px;
   background-color: white rgba(240, 99, 184, 0.15);
   background-blend-mode: multiply;
+  aspect-ratio: 1;
 }
 .h2-about {
+  line-height: 130%;
   font-weight: 700;
   font-size: 40px;
   color: #212353;
+  padding-bottom: 30px;
 }
 .p-about {
   font-weight: 500;
   font-size: 18px;
   line-height: 160%;
   color: #4b5d68;
+}
+.right-side {
+  justify-content: center;
+  width: 50%;
+  padding: 5%;
 }
