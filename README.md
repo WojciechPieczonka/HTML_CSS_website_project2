@@ -2,4 +2,6 @@
 
 Dodatkowy projekt storny w Figmie do wykonania z wykorzystaniem HTML i CSS.
 
+Click link to check: 
+
 //projekt w trakcie realizacji
